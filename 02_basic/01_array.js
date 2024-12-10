@@ -23,7 +23,7 @@ console.log(myN1);
 
 console.log("B ", myarr);
 
-const myN2 = myarr.splice(1, 4) // manupulate original array
+const myN2 = myarr.splice(1, 4) // manipulate original array
 console.log("C ", myarr);
 console.log(myN2);
 
