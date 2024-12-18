@@ -56,4 +56,4 @@ const addtwonum = (num1, num2) => ({username: "leuza",
     age:29
 })
 
-console.log(addtwonum.());
+console.log(addtwonum(3,4));
